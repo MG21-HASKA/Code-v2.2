@@ -1,0 +1,73 @@
+html
+{
+    font-family: Courier New;
+    background-image: url('../Image/Terre.jpg');
+}
+
+header
+{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+h1
+{
+    margin-left: 2%;
+}
+
+nav
+{
+    font-size: 2em;
+    position: relative;
+    margin-top: 2.5%;
+    margin-left: 25%;
+}
+
+nav a
+{
+    padding: 2%;
+    text-decoration: none;
+    color: white;
+}
+
+section
+{
+    position: relative;
+    margin-top: 7%;
+    text-align: center;
+    color: white;
+    font-size: 1.5em;
+}
+
+#Img
+{
+    position: relative;
+    margin-top: 1%;
+    text-align: center;
+    color: black;
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+#Logo
+{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 1em;
+    background-color: rgb(65,69,75);
+	color: rgb(109,116,126);
+    font-weight: bolder;
+}
