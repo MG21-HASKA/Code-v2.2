@@ -45,24 +45,6 @@ section
     font-size: 1.5em;
 }
 
-#Img
-{
-    position: relative;
-    margin-top: 1%;
-    text-align: center;
-    color: black;
-    font-weight: 100;
-    font-size: 1.5em;
-}
-
-#Logo
-{
-    width: 150px;
-    height: 150px;
-    text-align: center;
-    margin-top: 5%;
-}
-
 footer
 {
     text-align: center;
@@ -71,3 +53,36 @@ footer
 	color: rgb(109,116,126);
     font-weight: bolder;
 }
+
+#Img
+{
+    position: relative;
+    margin-top: 1%;
+    text-align: center;
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
+#Img p
+{
+    color: darkred;
+    margin-top: 0%;
+}
+
+#Logo
+{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-top: 0%;
+}
+
+#Caché
+{
+    position: relative;
+    width: 1200px;
+    height: 600px;
+    margin-top: 0%;
+    margin-left: -10%;
+}
+
